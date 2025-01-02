@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏄‍♂️ About Me<br>🌟 Aspiring Software Engineer<br>🔍 Passionate about solving real-world problems through clean and scalable code.<br><br>🛠 Current Focus:<br>📱 Exploring Flutter for cross-platform app development with Firebase integration.<br>🧩 Automating daily tasks, like college hall plan access.<br><br><br>💡 Fun Fact: I love blending tech with problem-solving challenges!
+🏄‍♂️ About Me<br>🌟 Aspiring Software Engineer<br>🔍 Passionate about solving real-world problems through clean and scalable code.<br><br>🛠 Current Focus:<br>📱 Exploring Flutter for cross-platform app development with Firebase integration.<br><br>💡 Fun Fact: I love blending tech with problem-solving challenges!
 
 
 # 💻 Tech Stack:
